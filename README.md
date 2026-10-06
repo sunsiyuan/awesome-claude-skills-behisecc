@@ -169,6 +169,7 @@
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
+- [ultramotion](https://github.com/sunsiyuan/ultramotion) - Motion template skills (Liquid Glass, Kinetic Type, Hand-drawn Explainer, Variety Captions) that turn one prompt into a finished vertical video with music.
 
 
 ## 🏥 Health & Life Sciences
